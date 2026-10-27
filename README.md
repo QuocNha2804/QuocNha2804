@@ -77,7 +77,7 @@
   <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a> -->
-  <a href="https://instagram.com/qnhax" target="blank">
+  <a href="https://instagram.com/_qnhax" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:quocnha7@gmail.com" target="top">
