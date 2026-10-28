@@ -95,7 +95,6 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=QuocNha2804&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
-
 <br>
 <h2 align="center">👽 Where to find me ? 👽</h2>
 <br>
@@ -107,9 +106,6 @@
   <a href="https://www.youtube.com/@qnhax" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="qnhax-youtube" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a> -->
   <a href="https://instagram.com/_qnhax" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="qnhax-instagram" />
   </a>
@@ -126,9 +122,7 @@
     <img src="https://img.icons8.com/?size=100&id=CCDYqb5KK5vI&format=png" alt="qnhax-phone" />
   </a>
 </div>
-
 <br>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
