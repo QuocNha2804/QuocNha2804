@@ -21,6 +21,7 @@
         }
         .quotes-vi {
           font-size: 18px;
+		  padding-left: 10px;
         }
         .trungquandev-signature {
           font-size: 16px;

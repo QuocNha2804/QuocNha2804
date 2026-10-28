@@ -114,7 +114,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="qnhax-instagram" />
   </a>
   <a href="https://www.tiktok.com/@tranquocnha" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=-x2V8Q63DerT&format=png" alt="qnhax-instagram" />
+    <img src="https://img.icons8.com/?size=100&id=-x2V8Q63DerT&format=png" alt="qnhax-tiktok" />
   </a>
   <a href="https://www.facebook.com/qnhax" target="blank">
     <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png" alt="qnhax-zalo" />
