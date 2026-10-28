@@ -14,29 +14,29 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Neo4j.js-282C34?logo=neo4j&logoColor=4581C3" alt="Neo4j.js logo" title="Neo4j.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Mysql.js-282C34?logo=mysql&logoColor=4479A1" alt="Mysql.js logo" title="Mysql.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus.js logo" title="cplusplus.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Intellij IDEA-282C34?logo=intellijidea&logoColor=000000" alt="intellijidea logo" title="intellijidea" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipseide&logoColor=2C2255" alt="eclipseide logo" title="eclipseide" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=1C2024" alt="expo logo" title="expo" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="postman logo" title="postman" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -44,7 +44,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="figma logo" title="figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="spring logo" title="spring" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Mariadb-282C34?logo=mariadb&logoColor=003545" alt="mariadb logo" title="mariadb" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=EE342F" alt="coffeescript logo" title="coffeescript" height="25" /></span>
 &nbsp;
 
 <br>
