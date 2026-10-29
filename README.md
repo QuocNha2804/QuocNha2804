@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- https://github.com/trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/quocnha.svg" width="1200" alt="quocnha" />
 </a>
