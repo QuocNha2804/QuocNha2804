@@ -86,12 +86,25 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="quocnha">
+  <!-- <a href="#" title="quocnha">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocNha2804&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <!-- <a href="#" title="quocnha">
+  <a href="#" title="quocnha">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=QuocNha2804&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a> -->
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuocNha2804&layout=pie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="53%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true" width="44%"  alt="Top Langs" />
+</div>
+<br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhkha/lethanhkha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethanhkha/lethanhkha/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/lethanhkha/lethanhkha/output/github-contribution-grid-snake.svg" width="94%" />
+  </picture>
+
 </div>
 <br>
 <h2 align="center">👽 Where to find me ? 👽</h2>
