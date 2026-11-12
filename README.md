@@ -85,19 +85,15 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuocNha2804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=20" width="48.5%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="48.5%" alt="Top Langs" />
-</div>
-<br/><br/>
-
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuocNha2804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&card_width=445" width="48%" align="top" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuocNha2804/QuocNha2804/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuocNha2804/QuocNha2804/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/QuocNha2804/QuocNha2804/output/github-contribution-grid-snake.svg" width="94%" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/QuocNha2804/QuocNha2804/output/github-contribution-grid-snake.svg" width="96%" />
   </picture>
-
 </div>
 <br>
 <h2 align="center">👽 Where to find me ? 👽</h2>
