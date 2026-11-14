@@ -86,8 +86,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuocNha2804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=24&card_width=445" width="48%" align="top" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=QuocNha2804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24&card_width=445" width="48%" align="top" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuocNha2804/QuocNha2804/output/github-contribution-grid-snake-dark.svg">
