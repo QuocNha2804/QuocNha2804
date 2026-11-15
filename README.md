@@ -86,7 +86,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=QuocNha2804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24&card_width=445" width="48%" align="top" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=QuocNha2804&theme=tokyonight&hide_border=true&card_width=445&card_height=190" width="48%" align="top" alt="GitHub Streak" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuocNha2804&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" width="48%" align="top" alt="Top Langs" />
   <br/><br/>
   <picture>
